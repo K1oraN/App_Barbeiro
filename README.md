@@ -1,16 +1,12 @@
-# baber
+# App de Agedamento (Barberia)
 
-A new Flutter project.
+Aluno: Lucas Alexandre Barboza de Oliveira 1691847
 
-## Getting Started
+Protótipo de um aplicativo mobile para o trabalho de Programação – Mobile Coding. O app conterá uma interface de agendamento, com telas de login, cadastro, etc. Ele foi desenvolvido em Flutte. (O arquivo principal do app é o main.dart)
 
-This project is a starting point for a Flutter application.
+Este app é apenas um protótipo que ainda estar sendo desenvolvido e pode conter somente algumas telas e funções. (Serão 11 telas totais: Abertura, Cadastro, Login, Home, Agedemento (Serviços, Horarios e datas), avaliar e ver avaliações, planos e além de uma agenda pro cliente e barbeiro.)
 
-A few resources to get you started if this is your first Flutter project:
+## Links
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Figma: https://www.figma.com/design/HtSRCPlthgEKCW6xIrcLV1/APP?node-id=1-588&t=ipof2GdDRwLu0V83-1
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
